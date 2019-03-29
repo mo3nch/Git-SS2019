@@ -8,15 +8,15 @@ public class Queue<T>
     
     private Node<T> last;
     /**
-     * Das vorderste (=erste) Element aus der Queue entfernen und zurückliefern.
-     * Existiert kein Element, wird eine Exception ausgelöst.
+     * Das vorderste (=erste) Element aus der Queue entfernen und zurï¿½ckliefern.
+     * Existiert kein Element, wird eine Exception ausgelï¿½st.
      * @throws QueueEmptyException
      */
     public T dequeue() throws QueueEmptyException
     {
         Node<T> toReturn = first; //die Node wird zwischengespeichert; return das erste und wirfs dann aus dem speicher hinaus (equals erledigt)
 
-        if (first == null)
+        if (first == null) //prÃ¼ft, ob first Null ist
             throw new QueueEmptyException();
 
         if (first != last)
@@ -29,7 +29,7 @@ public class Queue<T>
     }
 
     /**
-     * Übergebenen Integer am Ende der Queue anhängen.
+     * ï¿½bergebenen Integer am Ende der Queue anhï¿½ngen.
      * @param i Zahl
      */
     public void enqueue(T i)
