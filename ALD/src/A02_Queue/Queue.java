@@ -14,7 +14,12 @@ public class Queue<T>
      */
     public T dequeue() throws QueueEmptyException
     {
+        Node<T> toReturn = first;
+
         --count;
+
+        if (first == null)
+            throw new QueueEmptyException();
 
         if (first != last)
         {
@@ -25,8 +30,7 @@ public class Queue<T>
             first = last = null;
         }
 
-
-        return null;
+        return toReturn.getData();
     }
     
     
