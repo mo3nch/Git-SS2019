@@ -24,6 +24,9 @@ ALD-Aufgabenstellungen.zip
 #java classes
 *.class
 
+#hope this doesn't break stuff
+workspace.xml
+
 # =========================
 # Operating System Files
 # =========================
