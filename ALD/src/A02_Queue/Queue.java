@@ -10,11 +10,11 @@ public class Queue<T>
     /**
      * Das vorderste (=erste) Element aus der Queue entfernen und zurückliefern.
      * Existiert kein Element, wird eine Exception ausgelöst.
-     * @throws QueueEmptyException 
+     * @throws QueueEmptyException
      */
     public T dequeue() throws QueueEmptyException
     {
-        Node<T> toReturn = first;
+        Node<T> toReturn = first; //die Node wird zwischengespeichert; return das erste und wirfs dann aus dem speicher hinaus (equals erledigt)
 
         if (first == null)
             throw new QueueEmptyException();
