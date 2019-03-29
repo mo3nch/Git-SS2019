@@ -21,6 +21,9 @@ ALD-Aufgabenstellungen.zip
 # Windows shortcuts
 *.lnk
 
+#java classes
+*.class
+
 # =========================
 # Operating System Files
 # =========================
