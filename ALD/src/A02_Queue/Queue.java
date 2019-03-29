@@ -16,25 +16,18 @@ public class Queue<T>
     {
         Node<T> toReturn = first;
 
-        --count;
-
         if (first == null)
             throw new QueueEmptyException();
 
         if (first != last)
-        {
             first = first.getNext();
-        }
         else
-        {
             first = last = null;
-        }
 
+        --count;
         return toReturn.getData();
     }
-    
-    
-    
+
     /**
      * Übergebenen Integer am Ende der Queue anhängen.
      * @param i Zahl
@@ -42,7 +35,6 @@ public class Queue<T>
     public void enqueue(T i)
     {
         Node toAdd = new Node<>(i);
-        ++count;
 
         if (last == null)
         {
@@ -56,6 +48,8 @@ public class Queue<T>
             last.setNext(toAdd);
             last = toAdd;
         }
+
+        ++count;
     }
     
     /**
