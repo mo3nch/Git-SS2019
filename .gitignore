@@ -15,6 +15,9 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 
+# Vorlage
+ALD-Aufgabenstellungen.zip
+
 # Windows shortcuts
 *.lnk
 
