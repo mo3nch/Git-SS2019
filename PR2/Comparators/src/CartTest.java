@@ -36,7 +36,10 @@ public class CartTest
             @Override
             public int compare(Cart o1, Cart o2)
             {
-                return ((Integer)o1.getNumArticles()).compareTo(o2.getNumArticles());
+                Double d1 = o1.getTotalAmount()/o1.getTotalItems();
+                Double d2 = o2.getTotalAmount()/o2.getTotalItems();
+
+                return (d1.compareTo(d2));
             }
         });
         System.out.println("Anonymous: \n");
