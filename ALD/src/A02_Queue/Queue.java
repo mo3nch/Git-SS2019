@@ -2,6 +2,8 @@ package A02_Queue;
 
 public class Queue<T>
 {
+    private int count;
+
     private Node<T> first;
     
     private Node<T> last;
@@ -10,9 +12,21 @@ public class Queue<T>
      * Existiert kein Element, wird eine Exception ausgelöst.
      * @throws QueueEmptyException 
      */
-    public T dequeue() throws QueueEmptyException {
+    public T dequeue() throws QueueEmptyException
+    {
+        --count;
 
-    	return null;
+        if (first != last)
+        {
+            first = first.getNext();
+        }
+        else
+        {
+            first = last = null;
+        }
+
+
+        return null;
     }
     
     
@@ -21,8 +35,23 @@ public class Queue<T>
      * Übergebenen Integer am Ende der Queue anhängen.
      * @param i Zahl
      */
-    public void enqueue(T i) {
+    public void enqueue(T i)
+    {
+        Node toAdd = new Node<>(i);
+        ++count;
 
+        if (last == null)
+        {
+            last = toAdd;
+            last.setNext(null);
+            first = last;
+        }
+        else
+        {
+            toAdd.setNext(null);
+            last.setNext(toAdd);
+            last = toAdd;
+        }
     }
     
     /**
@@ -30,6 +59,6 @@ public class Queue<T>
      * @return
      */
     public int getCount() {
-    	return 0;
+    	return count;
     }
 }
