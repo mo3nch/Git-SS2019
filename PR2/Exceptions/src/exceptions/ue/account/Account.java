@@ -12,12 +12,6 @@ public class Account
             throw new NotEnoughMoneyException();
 
         balance -= amount;
-
-        if (balance < 0)
-        {
-            overdraftFrame += balance;
-            balance = 0;
-        }
     }
 
     public void debit(double amount)
