@@ -1,6 +1,9 @@
 package A05_Breitensuche;
 
+import java.util.ArrayList;
+import java.util.LinkedList;
 import java.util.List;
+import java.util.Queue;
 
 public class Breitensuche extends BaseTree<Integer> {
 
@@ -8,15 +11,13 @@ public class Breitensuche extends BaseTree<Integer> {
 	protected int compare(Integer a, Integer b) {
 		return a.compareTo(b);
 	}
-
 	/**
 	 * Liefert Knoten des Baums ausgehend von Start in Reihenfolge der Breitensuche zurück
 	 * @param start Startknoten für Teilbaum
 	 * @return Liste der Knoten in Breitenfolge
 	 */
 	public List<Integer> getBreadthFirstOrder(Node<Integer> start) {
-
-		return null;
+		return performBreadthSearch(start, -1);
 	}
 
 	/**
@@ -27,8 +28,34 @@ public class Breitensuche extends BaseTree<Integer> {
 	 * @return Liste aller Knoten
 	 */
 	public List<Integer> getBreadthFirstOrderForLevel(Node<Integer> start, int level) {
-
-		return null;
+		return performBreadthSearch(start, level);
 	}
 
+
+
+	public List<Integer> performBreadthSearch(Node<Integer> start, int level)
+	{
+		List<Integer> result = new ArrayList<>();
+		Queue<Node<Integer>> visited = new LinkedList<>();
+		Node<Integer> current = null;
+
+		visited.add(start);
+
+		while (!visited.isEmpty())
+		{
+			current = visited.remove();
+			current.calculateHeight(start);
+			if (level == -1 ||
+				current.getHeight() == level)
+				result.add(current.getValue());
+
+			if (current.getLeft() != null)
+				visited.add(current.getLeft());
+
+			if (current.getRight() != null)
+				visited.add(current.getRight());
+		}
+
+		return result;
+	}
 }

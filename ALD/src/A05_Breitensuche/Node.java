@@ -2,6 +2,8 @@ package A05_Breitensuche;
 
 public class Node<Type> {
 
+	private int height = 1;
+
 	/**
 	 * Linkes Kind
 	 */
@@ -21,7 +23,6 @@ public class Node<Type> {
 	 * Wert des Knotens, hier: String, der Wort enthält
 	 */
 	protected final Type value;
-
 
 	/**
 	 * Konstruktor
@@ -57,6 +58,29 @@ public class Node<Type> {
 
 	public Type getValue() {
 		return value;
+	}
+
+	public int getHeight()
+	{
+		return height;
+	}
+
+	public void calculateHeight(Node<Integer> root)
+	{
+		Node<Type> parent = this.getParent();
+
+		while (true)
+		{
+			if (parent == null || this == root)
+				break;
+
+			height++;
+
+			if (root == parent)
+				break;
+
+			parent = parent.getParent();
+		}
 	}
 	
 }
