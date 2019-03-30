@@ -35,7 +35,7 @@ public class Bank
         }
         catch (NotEnoughMoneyException e)
         {
-           throw new BankException(e);
+            throw new BankException(e);
         }
 
         to.debit(amount);
