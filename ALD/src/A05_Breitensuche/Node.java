@@ -71,6 +71,7 @@ public class Node<Type> {
 
 		while (true)
 		{
+			// Todo: Needs rework; Does the job but looks weird
 			if (parent == null || this == root)
 				break;
 
