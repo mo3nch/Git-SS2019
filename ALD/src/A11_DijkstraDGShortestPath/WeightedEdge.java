@@ -17,6 +17,14 @@ public class WeightedEdge {
 
 	}
 
+	public WeightedEdge(int from_vertex, int to_vertex, int weight, boolean charge) {
+		this.from_vertex = from_vertex;
+		this.to_vertex = to_vertex;
+		this.weight = weight;
+		this.charge = charge;
+
+	}
+
 	public boolean isCharge() {
 		return charge;
 	}

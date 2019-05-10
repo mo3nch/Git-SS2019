@@ -6,8 +6,8 @@ public class Main {
 	public static void main(String[] args) {
 		
 		Graph g = new ListGraph(8, false);
-		g.addEdge(0, 4,  3);
-		g.addEdge(0, 5,  4);
+		g.addEdge(0, 4,  3, false);
+		g.addEdge(0, 5,  4, false);
 		g.addEdge(1, 3,  1, true);
 		g.addEdge(1, 4,  6);
 		g.addEdge(1, 6,  2);
