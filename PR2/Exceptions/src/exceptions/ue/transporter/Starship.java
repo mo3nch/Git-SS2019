@@ -1,3 +1,5 @@
+package exceptions.ue.transporter;
+
 public class Starship
 {
     private String name;

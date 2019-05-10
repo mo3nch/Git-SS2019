@@ -1,3 +1,5 @@
+package exceptions.ue.transporter;
+
 public class Transporter
 {
     public void beam (String person, String from, String to, boolean urgent)
@@ -9,6 +11,6 @@ public class Transporter
 
     public void shutdown()
     {
-        System.out.println("Transporter shut down");
+        System.out.println("exceptions.ue.transporter.Transporter shut down");
     }
 }

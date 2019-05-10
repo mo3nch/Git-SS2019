@@ -44,7 +44,6 @@ public class CartTest
         });
         System.out.println("Anonymous: \n");
         printCarts(carts);
-
     }
 
     static void printCarts(ArrayList<Cart> carts)
