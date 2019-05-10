@@ -2,10 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3720943-9792-4118-bcc7-0ca7b6cb6a8a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Aufgabenstellungen.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Aufgabenstellungen.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/A01_Stack/TestStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A01_Stack/TestStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/Comparators/src/CartTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../PR2/Comparators/src/CartTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/Exceptions/src/Episode42.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/Exceptions/src/Starship.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/Exceptions/src/TransportMalfunctionException.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/Exceptions/src/Transporter.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -21,61 +26,54 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java">
+        <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/BreitensucheTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
+            <state relative-caret-position="1264">
+              <caret line="84" selection-start-line="84" selection-end-line="84" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/BaseTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1024">
+              <caret line="66" selection-start-line="66" selection-end-line="66" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#1450#1451#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A02_Queue/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A02_Queue/Queue.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A02_Queue/QueueEmptyException.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="85">
-              <caret line="5" selection-start-line="5" selection-end-line="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A01_Stack/Node.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
+            <state relative-caret-position="608">
+              <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#522#523#0" expanded="true" />
+                <element signature="e#567#568#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/A02_Queue/TestQueue.java">
+        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="323">
-              <caret line="19" column="17" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="17" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="447">
+              <caret line="704" column="35" selection-start-line="704" selection-start-column="35" selection-end-line="704" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="464">
+              <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -83,13 +81,59 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/A01_Stack/Stack.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
+            <state relative-caret-position="128">
               <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
             </state>
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1056">
+              <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A01_Stack/StackEmptyException.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A02_Queue/Node.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A02_Queue/Queue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="256">
+              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -102,6 +146,10 @@
         <option value="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java" />
         <option value="$PROJECT_DIR$/src/A01_Stack/Stack.java" />
         <option value="$PROJECT_DIR$/src/A01_Stack/TestStack.java" />
+        <option value="$PROJECT_DIR$/src/A02_Queue/Queue.java" />
+        <option value="$PROJECT_DIR$/src/A05_Breitensuche/HeightNode.java" />
+        <option value="$PROJECT_DIR$/src/A05_Breitensuche/Node.java" />
+        <option value="$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java" />
       </list>
     </option>
   </component>
@@ -125,34 +173,6 @@
               <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
               <item name="ALD" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ALD" type="462c0819:PsiDirectoryNode" />
-              <item name="out" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ALD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ALD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="A01_Stack" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ALD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="A02_Queue" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
-              <item name="ALD" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="A08_GraphZusammenhängend" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -167,12 +187,13 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553876827430" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555092172368" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -186,29 +207,34 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TestQueue">
-    <configuration name="Main (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A10_DijkstraPQShortestPath.Main" />
+  <component name="RunManager" selected="JUnit.BreitensucheTest">
+    <configuration name="BreitensucheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A10_DijkstraPQShortestPath.*" />
+          <option name="PATTERN" value="A05_Breitensuche.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="A05_Breitensuche" />
+      <option name="MAIN_CLASS_NAME" value="A05_Breitensuche.BreitensucheTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_DijkstraDGShortestPath.Main" />
+    <configuration name="BreitensucheTest.getBreadthFirstOrderForLevel4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_DijkstraDGShortestPath.*" />
+          <option name="PATTERN" value="A05_Breitensuche.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="A05_Breitensuche" />
+      <option name="MAIN_CLASS_NAME" value="A05_Breitensuche.BreitensucheTest" />
+      <option name="METHOD_NAME" value="getBreadthFirstOrderForLevel4" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -228,33 +254,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestStack" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="TestQueue.enqueuedequeue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A01_Stack.*" />
+          <option name="PATTERN" value="A02_Queue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A01_Stack" />
-      <option name="MAIN_CLASS_NAME" value="A01_Stack.TestStack" />
-      <option name="TEST_OBJECT" value="class" />
+      <option name="PACKAGE_NAME" value="A02_Queue" />
+      <option name="MAIN_CLASS_NAME" value="A02_Queue.TestQueue" />
+      <option name="METHOD_NAME" value="enqueuedequeue" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestQueue.getCount" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aufgabenstellungen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A02_Queue.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A02_Queue" />
+      <option name="MAIN_CLASS_NAME" value="A02_Queue.TestQueue" />
+      <option name="METHOD_NAME" value="getCount" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Main (1)" />
-      <item itemvalue="JUnit.TestStack" />
       <item itemvalue="JUnit.TestQueue" />
+      <item itemvalue="JUnit.TestQueue.getCount" />
+      <item itemvalue="JUnit.TestQueue.enqueuedequeue" />
+      <item itemvalue="JUnit.BreitensucheTest" />
+      <item itemvalue="JUnit.BreitensucheTest.getBreadthFirstOrderForLevel4" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.BreitensucheTest" />
+        <item itemvalue="JUnit.BreitensucheTest.getBreadthFirstOrderForLevel4" />
         <item itemvalue="JUnit.TestQueue" />
-        <item itemvalue="JUnit.TestStack" />
-        <item itemvalue="Application.Main" />
-        <item itemvalue="Application.Main (1)" />
+        <item itemvalue="JUnit.TestQueue.enqueuedequeue" />
+        <item itemvalue="JUnit.TestQueue.getCount" />
       </list>
     </recent_temporary>
   </component>
@@ -270,18 +315,62 @@
       <updated>1552236641010</updated>
       <workItem from="1553873666315" duration="220000" />
       <workItem from="1553873914528" duration="447000" />
-      <workItem from="1553874491159" duration="2226000" />
+      <workItem from="1553874491159" duration="7106000" />
+      <workItem from="1553947865028" duration="8522000" />
+      <workItem from="1553956742889" duration="2010000" />
+      <workItem from="1555091583279" duration="487000" />
+      <workItem from="1556280180175" duration="679000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 29m 50s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 29m 54s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 32m 27s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 33m 08s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 33m 31s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 34m 49s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 48m 01s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 48m 35s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 48m 43s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="BreitensucheTest - 2019.04.02 at 21h 24m 38s.xml">
+      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2893000" />
+    <option name="totallyTimeSpent" value="19471000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17157975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18229954" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,15 +379,15 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.329718" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
       <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Messages" order="10" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32941177" />
       <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="12" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -311,10 +400,67 @@
       <window_info anchor="right" id="Maven Projects" order="7" />
       <window_info anchor="right" id="Maven" order="8" />
       <window_info anchor="right" id="Database" order="9" />
+      <window_info anchor="right" id="Key Promoter X" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17157975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Messages" order="10" visible="true" weight="0.32941177" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Maven Projects" order="7" />
+      <window_info anchor="right" id="Maven" order="8" />
+      <window_info anchor="right" id="Database" order="9" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A05_Breitensuche/BreitensucheTest.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A05_Breitensuche/BreitensucheTest.java</url>
+          <line>84</line>
+          <properties />
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A05_Breitensuche/Node.java</url>
+          <line>74</line>
+          <properties />
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/ListGraph.java">
@@ -425,65 +571,165 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/StackEmptyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/A01_Stack/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
+        <state relative-caret-position="-7">
           <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="11" selection-start-line="10" selection-start-column="11" selection-end-line="10" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A02_Queue/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/A02_Queue/QueueEmptyException.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
+        <state relative-caret-position="105">
           <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A02_Queue/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="27" column="7" lean-forward="true" selection-start-line="27" selection-start-column="7" selection-end-line="27" selection-end-column="7" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/A02_Queue/TestQueue.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="19" column="17" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="17" />
+        <state relative-caret-position="960">
+          <caret line="62" selection-start-line="62" selection-end-line="62" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/ExpectException.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1201">
+          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="110" column="16" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/HeightNode.java" />
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="202" selection-start-line="202" selection-end-line="202" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/BreitensucheTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1264">
+          <caret line="84" selection-start-line="84" selection-end-line="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/BaseTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1024">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+          <folding>
+            <element signature="e#1450#1451#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="464">
+          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A01_Stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A01_Stack/StackEmptyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A02_Queue/Node.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A02_Queue/Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="447">
+          <caret line="704" column="35" selection-start-line="704" selection-start-column="35" selection-end-line="704" selection-end-column="35" />
         </state>
       </provider>
     </entry>

@@ -45,7 +45,12 @@ public class ListGraph implements Graph {
 			graph[v].add(new WeightedEdge(v, u, weight));
 		}
 	}
-	
+
+	@Override
+	public void addEdge(int u, int v, int weight, boolean charge) {
+
+	}
+
 	private WeightedEdge findEdge(int u, int v) {
 		for (WeightedEdge we: graph[u]) {
 			if (we.to_vertex == v) {

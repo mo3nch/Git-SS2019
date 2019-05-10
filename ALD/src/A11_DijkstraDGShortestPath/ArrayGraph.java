@@ -1,50 +1,57 @@
 package A11_DijkstraDGShortestPath;
+
 import java.util.ArrayList;
 import java.util.List;
 
 
 public class ArrayGraph implements Graph {
 
-	private int[][] graph;
-	private int numVertices;
-	private boolean directed;
-	
-	public ArrayGraph(int numVertices, boolean directed) {
-		graph = new int[numVertices][numVertices];
-		this.numVertices = numVertices;
-		this.directed = directed;
-	}
-	
-	public int numVertices() {
-		return numVertices;
-	}
+    private int[][] graph;
+    private int numVertices;
+    private boolean directed;
 
-	public boolean isDirected() {
-		return directed;
-	}
+    public ArrayGraph(int numVertices, boolean directed) {
+        graph = new int[numVertices][numVertices];
+        this.numVertices = numVertices;
+        this.directed = directed;
+    }
 
-	public boolean hasEdge(int u, int v) {
-		return (graph[u][v] > 0);
-	}
+    public int numVertices() {
+        return numVertices;
+    }
 
-	public int getEdgeWeight(int u, int v) {
-		return graph[u][v];
-	}
+    public boolean isDirected() {
+        return directed;
+    }
 
-	public void addEdge(int u, int v) {
-		addEdge(u, v, 1);
-	}
-	
-	public void addEdge(int u, int v, int weight) {
-		// TODO
-	}
+    public boolean hasEdge(int u, int v) {
+        return (graph[u][v] > 0);
+    }
 
-	public void removeEdge(int u, int v) {
-		// TODO
-	}
+    public int getEdgeWeight(int u, int v) {
+        return graph[u][v];
+    }
 
-	public List<WeightedEdge> getEdges(int v) {
-		// TODO
-		return null;
-	}
+    public void addEdge(int u, int v) {
+        addEdge(u, v, 1);
+    }
+
+    public void addEdge(int u, int v, int weight) {
+        addEdge(u, v, weight, false);
+    }
+
+    public void addEdge(int u, int v, int weight, boolean charge) {
+        WeightedEdge edge = new WeightedEdge(u, v, weight);
+        edge.setCharge(charge);
+    }
+
+
+    public void removeEdge(int u, int v) {
+        // TODO
+    }
+
+    public List<WeightedEdge> getEdges(int v) {
+        // TODO
+        return null;
+    }
 }

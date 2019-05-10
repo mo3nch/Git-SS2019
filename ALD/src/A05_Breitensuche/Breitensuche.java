@@ -41,6 +41,10 @@ public class Breitensuche extends BaseTree<Integer> {
 
 		visited.add(start);
 
+		String s = "";
+
+		s.charAt(0);
+
 		while (!visited.isEmpty())
 		{
 			current = visited.remove();
