@@ -1,0 +1,8 @@
+.classpath
+.project
+bin/
+out/
+
+#.settings/
+data/output/
+!data/csv/
