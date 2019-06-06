@@ -3,7 +3,8 @@ package A01_Stack;
 
 public class Stack<T>
 {
-	 private Node<T> first;
+	 private Node<T> first = null;
+	 private int numElements = 0;
     /**
      * Oberstes Element entfernen und zurückliefern.
      * Existiert kein Element, wird eine Exception ausgelöst.
@@ -11,7 +12,13 @@ public class Stack<T>
      */
     public T pop() throws StackEmptyException {
 
-    	return null;
+        if (numElements == 0)
+            throw new StackEmptyException();
+
+        Node<T> temp = first;
+        first = first.getNext();
+        --numElements;
+        return temp.getData();
     }
     
     /**
@@ -20,6 +27,12 @@ public class Stack<T>
      */
     public void push(T i) {
 
+        Node<T> toAdd = new Node<>(i);
+
+        toAdd.setNext(first);
+        first = toAdd;
+
+        ++numElements;
     }
     
     /**
@@ -27,6 +40,6 @@ public class Stack<T>
      * @return
      */
     public int getCount() {
-    	return 0;
+    	return numElements;
     }
 }

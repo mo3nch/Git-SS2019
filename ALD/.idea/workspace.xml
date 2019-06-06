@@ -2,8 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3720943-9792-4118-bcc7-0ca7b6cb6a8a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/src/stream/ue/textanalyzer/ResultManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/src/stream/ue/textanalyzer/ResultManagerDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/src/stream/ue/textanalyzer/TextAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/src/stream/ue/textanalyzer/TextInputInvalidFormatException.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A01_Stack/Stack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A01_Stack/Stack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A03_DoubleLinkedList/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A03_DoubleLinkedList/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A06_Tiefensuche/Tiefensuche.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A06_Tiefensuche/Tiefensuche.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A07_BubbleSort/BubbleSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A07_BubbleSort/BubbleSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A07_BubbleSort/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A07_BubbleSort/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A08_GraphZusammenhängend/ConnectedComponents.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A08_GraphZusammenhängend/ConnectedComponents.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A09_ZyklenTiefensuche/Zyklen.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A09_ZyklenTiefensuche/Zyklen.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/FindWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/FindWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/A12_DijkstraLand/Dijkstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/A12_DijkstraLand/Dijkstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/Streams.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../PR2/UebungenKlausur/Streams/Streams.iml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -19,70 +34,34 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+        <entry file="file://$PROJECT_DIR$/src/A09_ZyklenTiefensuche/Zyklen.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="704" column="35" selection-start-line="704" selection-start-column="35" selection-end-line="704" selection-end-column="35" />
+            <state relative-caret-position="201">
+              <caret line="33" selection-start-line="33" selection-end-line="33" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/WeightedEdge.java">
+        <entry file="file://$PROJECT_DIR$/src/A09_ZyklenTiefensuche/ZyklenTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="336">
-              <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+            <state relative-caret-position="137">
+              <caret line="37" selection-start-line="37" selection-end-line="37" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/FindWay.java">
+        <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/MergeSort.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-16">
-              <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
+            <state relative-caret-position="324">
+              <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Main.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="160">
-              <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/../PR2/BasicNetworking/SS19-PR2-BasicNetworking.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Graph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="35" selection-start-column="35" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/ListGraph.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="208">
-              <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
-              <folding>
-                <element signature="e#1130#1131#0" expanded="true" />
-                <element signature="e#1146#1147#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A01_Stack/StackEmptyException.java">
+        <entry file="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/Ausrede.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
               <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
@@ -91,19 +70,69 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A02_Queue/Node.java">
+        <entry file="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/CurrentNotSetException.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="128">
-              <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
+            <state relative-caret-position="32">
+              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/A02_Queue/Queue.java">
+        <entry file="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/DoubleLinkedList.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="16" column="41" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
+            <state relative-caret-position="324">
+              <caret line="147" column="51" selection-start-line="147" selection-start-column="51" selection-end-line="147" selection-end-column="51" />
+              <folding>
+                <element signature="e#488#489#0" expanded="true" />
+                <element signature="e#515#516#0" expanded="true" />
+                <element signature="e#599#600#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#770#771#0" expanded="true" />
+                <element signature="e#795#796#0" expanded="true" />
+                <element signature="e#943#944#0" expanded="true" />
+                <element signature="e#967#968#0" expanded="true" />
+                <element signature="e#1821#1822#0" expanded="true" />
+                <element signature="e#1857#1858#0" expanded="true" />
+                <element signature="e#1950#1951#0" expanded="true" />
+                <element signature="e#1990#1991#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="43">
+              <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/PersonenSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/MergeSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="64">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/PersonenSortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-224">
+              <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -129,10 +158,6 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/Main.java" />
-        <option value="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/FindWay.java" />
-        <option value="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java" />
-        <option value="$PROJECT_DIR$/src/A01_Stack/Stack.java" />
-        <option value="$PROJECT_DIR$/src/A01_Stack/TestStack.java" />
         <option value="$PROJECT_DIR$/src/A02_Queue/Queue.java" />
         <option value="$PROJECT_DIR$/src/A05_Breitensuche/HeightNode.java" />
         <option value="$PROJECT_DIR$/src/A05_Breitensuche/Node.java" />
@@ -140,14 +165,26 @@
         <option value="$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/WeightedEdge.java" />
         <option value="$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/ListGraph.java" />
         <option value="$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Main.java" />
+        <option value="$PROJECT_DIR$/src/A12_DijkstraLand/Dijkstra.java" />
+        <option value="$PROJECT_DIR$/src/A07_BubbleSort/Person.java" />
+        <option value="$PROJECT_DIR$/src/A07_BubbleSort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/A08_GraphZusammenhängend/ConnectedComponents.java" />
+        <option value="$PROJECT_DIR$/src/A01_Stack/Stack.java" />
+        <option value="$PROJECT_DIR$/src/A01_Stack/TestStack.java" />
+        <option value="$PROJECT_DIR$/src/A06_Tiefensuche/Tiefensuche.java" />
+        <option value="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java" />
+        <option value="$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/FindWay.java" />
+        <option value="$PROJECT_DIR$/src/A09_ZyklenTiefensuche/Zyklen.java" />
+        <option value="$PROJECT_DIR$/src/A13_MergeSort/MergeSort.java" />
+        <option value="$PROJECT_DIR$/src/A03_DoubleLinkedList/DoubleLinkedList.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="y" value="-12" />
-    <option name="width" value="2762" />
-    <option name="height" value="1790" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-10" />
+    <option name="y" value="2" />
+    <option name="width" value="2756" />
+    <option name="height" value="1774" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -155,8 +192,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -173,7 +210,43 @@
               <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
               <item name="ALD" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="A11_DijkstraDGShortestPath" type="462c0819:PsiDirectoryNode" />
+              <item name="A03_DoubleLinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="A05_Breitensuche" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="A06_Tiefensuche" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="A08_GraphZusammenhängend" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="A09_ZyklenTiefensuche" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="A10_DijkstraPQShortestPath" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="ALD" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ALD" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="basisAlgorithmen" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -188,8 +261,8 @@
     <property name="Repository.Attach.Sources" value="false" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557574556745" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PR2/BasicNetworking" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1559774405206" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
@@ -208,13 +281,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Main">
+  <component name="RunManager" selected="JUnit.ZyklenTest.connectedRingGraph">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="A11_DijkstraDGShortestPath.Main" />
+      <option name="MAIN_CLASS_NAME" value="A10_DijkstraPQShortestPath.Main" />
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A11_DijkstraDGShortestPath.*" />
+          <option name="PATTERN" value="A10_DijkstraPQShortestPath.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -222,82 +295,82 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreitensucheTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="MinMaxTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A05_Breitensuche.*" />
+          <option name="PATTERN" value="A06_Tiefensuche.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A05_Breitensuche" />
-      <option name="MAIN_CLASS_NAME" value="A05_Breitensuche.BreitensucheTest" />
+      <option name="PACKAGE_NAME" value="A06_Tiefensuche" />
+      <option name="MAIN_CLASS_NAME" value="A06_Tiefensuche.MinMaxTest" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BreitensucheTest.getBreadthFirstOrderForLevel4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZyklenTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A05_Breitensuche.*" />
+          <option name="PATTERN" value="A09_ZyklenTiefensuche.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A05_Breitensuche" />
-      <option name="MAIN_CLASS_NAME" value="A05_Breitensuche.BreitensucheTest" />
-      <option name="METHOD_NAME" value="getBreadthFirstOrderForLevel4" />
+      <option name="PACKAGE_NAME" value="A09_ZyklenTiefensuche" />
+      <option name="MAIN_CLASS_NAME" value="A09_ZyklenTiefensuche.ZyklenTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZyklenTest.connectedRingGraph" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Aufgabenstellungen" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="A09_ZyklenTiefensuche.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="A09_ZyklenTiefensuche" />
+      <option name="MAIN_CLASS_NAME" value="A09_ZyklenTiefensuche.ZyklenTest" />
+      <option name="METHOD_NAME" value="connectedRingGraph" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TestQueue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="ZyklenTest.graphWithOneVertex" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="Aufgabenstellungen" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="A02_Queue.*" />
+          <option name="PATTERN" value="A09_ZyklenTiefensuche.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="A02_Queue" />
-      <option name="MAIN_CLASS_NAME" value="A02_Queue.TestQueue" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestQueue.enqueuedequeue" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="Aufgabenstellungen" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="A02_Queue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="A02_Queue" />
-      <option name="MAIN_CLASS_NAME" value="A02_Queue.TestQueue" />
-      <option name="METHOD_NAME" value="enqueuedequeue" />
+      <option name="PACKAGE_NAME" value="A09_ZyklenTiefensuche" />
+      <option name="MAIN_CLASS_NAME" value="A09_ZyklenTiefensuche.ZyklenTest" />
+      <option name="METHOD_NAME" value="graphWithOneVertex" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.TestQueue" />
-      <item itemvalue="JUnit.TestQueue.enqueuedequeue" />
-      <item itemvalue="JUnit.BreitensucheTest" />
-      <item itemvalue="JUnit.BreitensucheTest.getBreadthFirstOrderForLevel4" />
+      <item itemvalue="JUnit.MinMaxTest" />
+      <item itemvalue="JUnit.ZyklenTest" />
       <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.ZyklenTest.graphWithOneVertex" />
+      <item itemvalue="JUnit.ZyklenTest.connectedRingGraph" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ZyklenTest.connectedRingGraph" />
+        <item itemvalue="JUnit.ZyklenTest.graphWithOneVertex" />
+        <item itemvalue="JUnit.ZyklenTest" />
         <item itemvalue="Application.Main" />
-        <item itemvalue="JUnit.BreitensucheTest" />
-        <item itemvalue="JUnit.BreitensucheTest.getBreadthFirstOrderForLevel4" />
-        <item itemvalue="JUnit.TestQueue" />
-        <item itemvalue="JUnit.TestQueue.enqueuedequeue" />
+        <item itemvalue="JUnit.MinMaxTest" />
       </list>
     </recent_temporary>
   </component>
@@ -319,43 +392,44 @@
       <workItem from="1555091583279" duration="487000" />
       <workItem from="1556280180175" duration="679000" />
       <workItem from="1557506021466" duration="3428000" />
+      <workItem from="1559411586427" duration="26929000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 29m 54s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="MinMaxTest - 2019.06.05 at 19h 18m 59s.xml">
+      <configuration name="MinMaxTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 32m 27s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest - 2019.06.05 at 22h 15m 56s.xml">
+      <configuration name="ZyklenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 33m 08s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest - 2019.06.05 at 22h 54m 10s.xml">
+      <configuration name="ZyklenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 33m 31s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest - 2019.06.05 at 22h 57m 55s.xml">
+      <configuration name="ZyklenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 34m 49s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest - 2019.06.05 at 22h 58m 33s.xml">
+      <configuration name="ZyklenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 48m 01s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest - 2019.06.05 at 23h 00m 39s.xml">
+      <configuration name="ZyklenTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 48m 35s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest_graphWithOneVertex - 2019.06.05 at 23h 02m 15s.xml">
+      <configuration name="ZyklenTest.graphWithOneVertex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.03.30 at 15h 48m 43s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest_graphWithOneVertex - 2019.06.05 at 23h 02m 58s.xml">
+      <configuration name="ZyklenTest.graphWithOneVertex" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.04.02 at 21h 24m 38s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest_connectedRingGraph - 2019.06.05 at 23h 04m 57s.xml">
+      <configuration name="ZyklenTest.connectedRingGraph" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="BreitensucheTest - 2019.05.10 at 18h 37m 13s.xml">
-      <configuration name="BreitensucheTest" configurationId="JUnit" />
+    <history-entry file="ZyklenTest_connectedRingGraph - 2019.06.05 at 23h 08m 21s.xml">
+      <configuration name="ZyklenTest.connectedRingGraph" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="22899000" />
+    <option name="totallyTimeSpent" value="49828000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -367,19 +441,21 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-6" y="-6" width="1381" height="895" extended-state="6" />
+    <frame x="-5" y="1" width="1378" height="887" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18532526" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.39120546" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Capture Tool" order="5" />
       <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Duplicate detector" weight="0.32941177" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869282" />
+      <window_info anchor="bottom" id="Debug" order="3" visible="true" weight="0.4029062" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
@@ -458,224 +534,28 @@
           <properties />
           <option name="timeStamp" value="13" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A07_BubbleSort/BubbleSort.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A08_GraphZusammenhängend/ConnectedComponents.java</url>
+          <line>18</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/A09_ZyklenTiefensuche/Zyklen.java</url>
+          <line>51</line>
+          <properties />
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/A12_DijkstraLand/Dijkstra.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-280">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A07_BubbleSort/PersonenSortTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="350">
-          <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A07_BubbleSort/BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/DijkstraDGShortestPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/FindWay.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="503">
-          <caret line="48" column="17" selection-start-line="48" selection-start-column="17" selection-end-line="48" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="34" column="17" selection-start-line="34" selection-start-column="17" selection-end-line="34" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/ArrayGraph.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/basisAlgorithmen/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="19" lean-forward="true" selection-start-line="3" selection-start-column="19" selection-end-line="3" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Aufgabenstellungen.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" column="58" selection-start-line="12" selection-start-column="58" selection-end-line="12" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A02_Queue/QueueEmptyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A02_Queue/TestQueue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="960">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/statements/ExpectException.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="49" selection-start-line="49" selection-end-line="49" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/LinkedList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1201">
-          <caret line="105" column="11" selection-start-line="105" selection-start-column="11" selection-end-line="105" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/Queue.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="143" column="17" selection-start-line="143" selection-start-column="17" selection-end-line="143" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/util/List.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="110" column="16" selection-start-line="110" selection-start-column="7" selection-end-line="110" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/HeightNode.java" />
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="145">
-          <caret line="202" selection-start-line="202" selection-end-line="202" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="31" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="224">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/BreitensucheTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1264">
-          <caret line="84" selection-start-line="84" selection-end-line="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/BaseTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1024">
-          <caret line="66" selection-start-line="66" selection-end-line="66" />
-          <folding>
-            <element signature="e#1450#1451#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="608">
-          <caret line="45" column="13" selection-start-line="45" selection-start-column="13" selection-end-line="45" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#522#523#0" expanded="true" />
-            <element signature="e#567#568#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Node.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="464">
-          <caret line="29" column="7" selection-start-line="29" selection-start-column="7" selection-end-line="29" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/Stack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="8" column="61" selection-start-line="8" selection-start-column="61" selection-end-line="8" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1056">
-          <caret line="68" column="6" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/A01_Stack/StackEmptyException.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/A02_Queue/Node.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="128">
@@ -690,54 +570,374 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_191/src.zip!/java/lang/String.java">
+    <entry file="file://$PROJECT_DIR$/../PR2/BasicNetworking/SS19-PR2-BasicNetworking.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A01_Stack/Node.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="704" column="35" selection-start-line="704" selection-start-column="35" selection-end-line="704" selection-end-column="35" />
+        <state relative-caret-position="48">
+          <caret line="3" column="1" selection-start-line="3" selection-start-column="1" selection-end-line="3" selection-end-column="1" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/FindWay.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-16">
+        <state relative-caret-position="80">
           <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="35" selection-start-column="35" selection-end-column="35" />
+        <state relative-caret-position="64">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/ListGraph.java">
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/VertexHeap.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="208">
-          <caret line="41" column="61" selection-start-line="41" selection-start-column="61" selection-end-line="41" selection-end-column="61" />
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/WeightedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/DijkstraDGShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="46" column="21" lean-forward="true" selection-start-line="46" selection-start-column="21" selection-end-line="46" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A12_DijkstraLand/ListGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="26" column="8" lean-forward="true" selection-start-line="26" selection-start-column="8" selection-end-line="26" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basisAlgorithmen/DijkstraDGShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basisAlgorithmen/DijkstraPQShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-144">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A12_DijkstraLand/Dijkstra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-336">
+          <caret line="46" column="16" selection-start-line="46" selection-start-column="16" selection-end-line="46" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A07_BubbleSort/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A07_BubbleSort/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A07_BubbleSort/PersonenSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
           <folding>
-            <element signature="e#1130#1131#0" expanded="true" />
-            <element signature="e#1146#1147#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/WeightedEdge.java">
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DIa0.109/ConnectedComponents.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A12_DijkstraLand/Graph.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="336">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
+        <state relative-caret-position="64">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/A11_DijkstraDGShortestPath/Main.java">
+    <entry file="file://$PROJECT_DIR$/src/A07_BubbleSort/BubbleSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
-          <caret line="10" column="27" selection-start-line="10" selection-start-column="27" selection-end-line="10" selection-end-column="27" />
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../PR2/BasicNetworking/SS19-PR2-BasicNetworking.iml">
-      <provider selected="true" editor-type-id="text-editor" />
+    <entry file="file://$PROJECT_DIR$/src/A08_GraphZusammenhängend/ConnectedComponentsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="38" selection-start-line="38" selection-end-line="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/basisAlgorithmen/WeightedEdge.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A01_Stack/Stack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="34" column="22" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+            <element signature="e#583#584#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A01_Stack/TestStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="30" column="2" lean-forward="true" selection-start-line="30" selection-start-column="2" selection-end-line="30" selection-end-column="2" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/Vertex.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="203" selection-start-line="203" selection-end-line="203" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.253/Gruppe3/A09_ZyklenTiefensuche/src/A09_ZyklenTiefensuche/Zyklen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1200" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A06_Tiefensuche/InOrderTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="161">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Temp/Rar$DRa0.050/Abgabe/A06_Tiefensuche/Tiefensuche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="368">
+          <caret line="66" column="45" lean-forward="true" selection-start-line="66" selection-start-column="45" selection-end-line="66" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A06_Tiefensuche/MinMaxTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A04_TraverseTree/Wort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-255">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A04_TraverseTree/Wörterbuch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-496">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A05_Breitensuche/Breitensuche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="48" column="9" lean-forward="true" selection-start-line="48" selection-start-column="9" selection-end-line="48" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#522#523#0" expanded="true" />
+            <element signature="e#567#568#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/Graph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A06_Tiefensuche/Film.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A06_Tiefensuche/Tiefensuche.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="60" column="81" lean-forward="true" selection-start-line="60" selection-start-column="81" selection-end-line="60" selection-end-column="81" />
+          <folding>
+            <element signature="e#1416#1417#0" expanded="true" />
+            <element signature="e#1468#1469#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/ArrayGraph.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="14" selection-start-line="10" selection-start-column="14" selection-end-line="10" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/FindWay.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A08_GraphZusammenhängend/ConnectedComponents.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="37" column="5" lean-forward="true" selection-start-line="28" selection-start-column="4" selection-end-line="37" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/junit/junit/4.12/junit-4.12.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="31" selection-start-line="31" selection-end-line="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A09_ZyklenTiefensuche/Zyklen.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A09_ZyklenTiefensuche/ZyklenTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="137">
+          <caret line="37" selection-start-line="37" selection-end-line="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/MergeSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="64">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/PersonenSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-224">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/PersonenSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="17" selection-start-line="3" selection-start-column="17" selection-end-line="3" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A13_MergeSort/MergeSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="38" column="5" lean-forward="true" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/Ausrede.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/CurrentNotSetException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A03_DoubleLinkedList/DoubleLinkedList.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="147" column="51" selection-start-line="147" selection-start-column="51" selection-end-line="147" selection-end-column="51" />
+          <folding>
+            <element signature="e#488#489#0" expanded="true" />
+            <element signature="e#515#516#0" expanded="true" />
+            <element signature="e#599#600#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#770#771#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#943#944#0" expanded="true" />
+            <element signature="e#967#968#0" expanded="true" />
+            <element signature="e#1821#1822#0" expanded="true" />
+            <element signature="e#1857#1858#0" expanded="true" />
+            <element signature="e#1950#1951#0" expanded="true" />
+            <element signature="e#1990#1991#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/A10_DijkstraPQShortestPath/DijkstraPQShortestPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="43">
+          <caret line="45" column="9" lean-forward="true" selection-start-line="45" selection-start-column="9" selection-end-line="45" selection-end-column="9" />
+        </state>
+      </provider>
     </entry>
   </component>
   <component name="masterDetails">
